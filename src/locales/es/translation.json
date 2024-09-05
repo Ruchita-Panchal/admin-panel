@@ -1,0 +1,14 @@
+{
+  "login": {
+    "LoginToAccount": "Iniciar sesión en la cuenta",
+    "PleaseEnterYourUsernameAndPasswordToContinue": "Por favor ingrese su nombre de usuario y contraseña para continuar",
+    "username": "nombre de usuario",
+    "password": "Contraseña",
+    "requiredFeild": "Campo requerido",
+    "rememberPassword": "Recordar contraseña",
+    "login": "Acceso",
+    "dontHaveAnAccount?": "¿No tienes una cuenta?",
+    "createAccount": "Crear una cuenta",
+    "language": "Cambiar idioma"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "email": "admin@yopmail.com",
+    "role": "Admin",
+    "username": "admin",
+    "password": "$2a$10$Fcj591Le5WUy6FGOpVXMhe9JyMomuO0PSYdNmg.Ls.kADLP5XwVOS"
+  },
+  {
+    "id": 2,
+    "email": "sachin@yopmail.com",
+    "username": "Stevie44",
+    "role": "Guest",
+    "password": "$2a$10$o53pPqKT3w.VGI80elCLSuJmbzqYAEWCvV3oc85nzaSx.rwMwnUAG"
+  },
+  {
+    "id": 3,
+    "email": "ruchipanchal.1993@gmail.com",
+    "username": "Ruchi36",
+    "role": "Guest",
+    "password": "$2a$10$uyX25/bDUoRyg21hU5yMwufBPIj9olPf/avEzzUE8aO27mcjOewAO"
+  }
+]

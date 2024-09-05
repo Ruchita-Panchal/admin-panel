@@ -1,0 +1,14 @@
+{
+  "login": {
+    "LoginToAccount": "Login to Account",
+    "PleaseEnterYourUsernameAndPasswordToContinue": "Please enter your username and password to continue",
+    "username": "Username",
+    "password": "Password",
+    "requiredFeild": "Required Feild",
+    "rememberPassword": "Remember password",
+    "login": "Login",
+    "dontHaveAnAccount?": "Don't have an account?",
+    "createAccount": "Create Account",
+    "language": "Change Language"
+  }
+}
